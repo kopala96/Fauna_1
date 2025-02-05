@@ -1,0 +1,14 @@
+C:\Users\mariami\Desktop\Fauna\bin\Debug\net8.0\Fauna.exe
+C:\Users\mariami\Desktop\Fauna\bin\Debug\net8.0\Fauna.deps.json
+C:\Users\mariami\Desktop\Fauna\bin\Debug\net8.0\Fauna.runtimeconfig.json
+C:\Users\mariami\Desktop\Fauna\bin\Debug\net8.0\Fauna.dll
+C:\Users\mariami\Desktop\Fauna\bin\Debug\net8.0\Fauna.pdb
+C:\Users\mariami\Desktop\Fauna\obj\Debug\net8.0\Fauna.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mariami\Desktop\Fauna\obj\Debug\net8.0\Fauna.AssemblyInfoInputs.cache
+C:\Users\mariami\Desktop\Fauna\obj\Debug\net8.0\Fauna.AssemblyInfo.cs
+C:\Users\mariami\Desktop\Fauna\obj\Debug\net8.0\Fauna.csproj.CoreCompileInputs.cache
+C:\Users\mariami\Desktop\Fauna\obj\Debug\net8.0\Fauna.dll
+C:\Users\mariami\Desktop\Fauna\obj\Debug\net8.0\refint\Fauna.dll
+C:\Users\mariami\Desktop\Fauna\obj\Debug\net8.0\Fauna.pdb
+C:\Users\mariami\Desktop\Fauna\obj\Debug\net8.0\Fauna.genruntimeconfig.cache
+C:\Users\mariami\Desktop\Fauna\obj\Debug\net8.0\ref\Fauna.dll
